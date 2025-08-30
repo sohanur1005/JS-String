@@ -7,3 +7,4 @@ const person={
 }
 // console.log(person)
 console.log(person.Profession)  
+console.log(person.Age)  
